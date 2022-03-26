@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: blueviolet;
+}
+h2{
+    margin-top: 200px;
+    text-align: center;
+}
